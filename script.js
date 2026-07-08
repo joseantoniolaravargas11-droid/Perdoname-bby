@@ -34,7 +34,7 @@ function handleYesClick() {
   window.navigator.vibrate(2000);
   catImg.addEventListener(
     "dblclick",
-    () => (titleElement.innerHTML = "Hecho con amor por EduardoProfe666🎩")
+    () => (titleElement.innerHTML = "Hecho con amor")
   );
 }
 
